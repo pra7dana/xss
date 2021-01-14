@@ -1,0 +1,17 @@
+swagger: '2.0'
+info:
+  version: HAHAHAHAHAHA
+  title: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  description: '<img src='1' onerror\x0b=alert(0) />'
+  termsOfService: 'java%0dscript:alert(1)'
+  contact:
+    name: phishing link
+    url: '" onmousedown="var name = '&#39;;alert(1)//'; alert('smthg')'
+    email: 'evil@evil.com'
+basePath: /
+paths:
+  /:
+    get:
+      responses:
+        '200':
+          description: Successful response
